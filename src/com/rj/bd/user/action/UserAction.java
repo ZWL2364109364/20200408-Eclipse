@@ -9,7 +9,7 @@ public class UserAction {
 
 	public void sayHi(){
 		
-		
+		System.out.println("ÀîËÄËµ456");
 		
 	}
 	
