@@ -8,9 +8,7 @@ package com.rj.bd.user.action;
 public class UserAction {
 
 	public void sayHi(){
-		
-		System.out.println("李四说456");
-		
+		System.out.println("他们说6666");
 	}
 	
 }
